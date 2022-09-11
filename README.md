@@ -3,7 +3,7 @@
 
 <h1 align="center">MoonDevelopment</h1>
 
-<p align="center">Can fluently write in Java (Mostly Bukkit/Spigot API)/p>
+<p align="center">Can fluently write in Java (Mostly Bukkit/Spigot API)</p>
 
 <a href="https://github.com/MoonDevelopment-Gio">
   <p align="center">
